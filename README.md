@@ -27,7 +27,7 @@
 ## 📱 &nbsp;Social Networks
   
 <div> 
-  <a href = "mailto:lailaroberta100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href = "mailto:lailaroberta100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/laila-roberta-3972b9196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/robertalailaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <img align="right" alt="laila-png" width="150" height="150" src="https://user-images.githubusercontent.com/43499912/153721114-5344c5f8-e551-4497-86c8-57d2161689d1.png">
