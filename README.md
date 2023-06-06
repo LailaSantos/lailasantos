@@ -1,6 +1,6 @@
 ## Hii, I'm Laila ✨
 
-- 🔭 I currently work at Accenture with FrontEnd Development
+- 🔭 I currently work at Accenture as FrontEnd Development
 - 🌱 I am currently learning AWS
 - ⚡ In love with Front-end 💜
 
