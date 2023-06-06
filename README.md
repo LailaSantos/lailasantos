@@ -1,7 +1,7 @@
 ## Hii, I'm Laila ✨
 
-- 🔭 I currently work at Accenture with Android Development
-- 🌱 I'm currently learning Android, Kotlin, AWS
+- 🔭 I currently work at Accenture with FrontEnd Development
+- 🌱 I am currently learning AWS
 - ⚡ In love with Front-end 💜
 
 ## 🚀 &nbsp;Technologies
