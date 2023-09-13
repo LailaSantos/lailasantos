@@ -1,7 +1,7 @@
 ## Hii, I'm Laila ✨
 
 - 🔭 I currently work at Accenture as FrontEnd Development
-- 🌱 1x AWS certificate -> Cloud Practitioner
+- 🌱 1x AWS Certified 
 - ⚡ In love with Front-end 💜
 
 ## 🚀 &nbsp;Technologies
